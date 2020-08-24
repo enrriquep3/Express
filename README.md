@@ -1,3 +1,3 @@
 # Express
 
-<h1>Some of this app need npm packages install to work properly</h1>
+<h1>Some apps need npm packages install to work properly</h1>
