@@ -5,9 +5,9 @@
 <h1>Deployment</h1>
 <p> </p>
   
-  ![](images/starwars.jpg)
+  ![](images/starwars.png)
   
-  ![](images/starwars1.jpg)
+  ![](images/starwars1.png)
   
 
 <h1>Built With</h1>
